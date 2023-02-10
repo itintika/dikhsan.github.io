@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  color: #61dafb;
+  background-color: blue;
 }
 
 .App-logo {
@@ -24,6 +26,16 @@
   color: white;
 }
 
+.li {
+  color: aqua;
+}
+
+.App-nav {
+  color : red;
+  background-color: bisque;
+  flex: content;
+}
+
 .App-link {
   color: #61dafb;
 }
@@ -36,3 +48,4 @@
     transform: rotate(360deg);
   }
 }
+
