@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dikhsan.github.io/static/css/main.915923db.css",
+    "main.js": "/dikhsan.github.io/static/js/main.57ffc0a0.js",
+    "static/js/787.759e47f1.chunk.js": "/dikhsan.github.io/static/js/787.759e47f1.chunk.js",
+    "index.html": "/dikhsan.github.io/index.html",
+    "main.915923db.css.map": "/dikhsan.github.io/static/css/main.915923db.css.map",
+    "main.57ffc0a0.js.map": "/dikhsan.github.io/static/js/main.57ffc0a0.js.map",
+    "787.759e47f1.chunk.js.map": "/dikhsan.github.io/static/js/787.759e47f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.915923db.css",
+    "static/js/main.57ffc0a0.js"
+  ]
+}
